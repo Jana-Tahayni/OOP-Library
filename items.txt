@@ -1,0 +1,6 @@
+Book|101|Python Programming|John Doe|350|2nd Edition|True|False
+Book|102|Data Structures|Jane Doe|400|1st Edition|False|True
+DVD|202|Inception|Nolan|148|2010|False|True
+DVD|203|The Matrix|Wachowski|136|1999|True|True
+Magazine|303|Tech Today|Editor Team|2024|TechHouse|False|False
+Magazine|304|Health Weekly|Wellness Co|2023|FitPress|False|False
